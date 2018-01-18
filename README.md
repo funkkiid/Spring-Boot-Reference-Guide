@@ -1,6 +1,8 @@
 # Spring-Boot-Reference-Guide
 Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 
+> 本开源书 forked from [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)，作者为 [qibaoguang](https://github.com/qibaoguang)，欢迎大家 star 原作者的 [repo](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)，以便获得最新更新，谢谢！
+
 说明：本文档翻译的版本：[1.4.1.RELEASE](http://docs.spring.io/spring-boot/docs/1.4.1.RELEASE/reference/htmlsingle/)。
 
 如感兴趣，可以star或fork该[仓库](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)！
